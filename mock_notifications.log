@@ -1,0 +1,4 @@
+[2026-04-18 20:19:40.732208] Post ID: a45096b8-880c-47cf-ad89-49c28b2bf610, Decision: APPROVED, Rationale: Slang/AAVE - Non-Violating - This is a comment expressing interest  and its not a threat
+[2026-04-18 20:20:37.370786] Post ID: 108d14b6-f9be-441a-b472-1e9602860218, Decision: APPROVED, Rationale: Direct Threat - Violating - This is a threat and should be REJECTED
+[2026-04-18 20:22:01.327214] Post ID: 225e4a33-7db6-4798-b3ce-ad8b497a38d6, Decision: APPROVED, Rationale: Direct Threat - Violating - This is threating to any bank and should be treated as violation. REJECT
+[2026-04-18 20:23:22.153746] Post ID: a7544bd5-20f7-4345-bc2a-f037569ea0c0, Decision: APPROVED, Rationale: Contextual Sarcasm - Non-Violating - This is not harmful but sarcastic

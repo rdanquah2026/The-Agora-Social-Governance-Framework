@@ -1,0 +1,5 @@
+post_id,content,ai_score,category,routing_decision
+a45096b8-880c-47cf-ad89-49c28b2bf610,I love the new coffee shop downtown! The food is amazing.,0.5,api_error,REVIEWED
+108d14b6-f9be-441a-b472-1e9602860218,I'm going to kill myself. I feel so alone.,0.5,api_error,REVIEWED
+225e4a33-7db6-4798-b3ce-ad8b497a38d6,"Yeah, totally gonna rob a bank later. 🙄 #justkidding #notserious",0.5,api_error,REVIEWED
+a7544bd5-20f7-4345-bc2a-f037569ea0c0,This idiot is spouting nonsense again on social media.,0.5,api_error,REVIEWED

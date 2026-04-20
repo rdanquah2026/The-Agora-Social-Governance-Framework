@@ -1,0 +1,5 @@
+log_id,post_id,human_label,reviewer_rationale,timestamp
+d7a3c458-fea5-44a0-a239-0a0528ba9cce,a45096b8-880c-47cf-ad89-49c28b2bf610,APPROVED,Slang/AAVE - Non-Violating - This is a comment expressing interest  and its not a threat,2026-04-19 00:19:40
+8c5aded2-e6da-4b91-a3c7-aaa729f8c62a,108d14b6-f9be-441a-b472-1e9602860218,APPROVED,Direct Threat - Violating - This is a threat and should be REJECTED,2026-04-19 00:20:37
+fb91635c-e98f-41e0-8f41-0b985fe0aabb,225e4a33-7db6-4798-b3ce-ad8b497a38d6,APPROVED,Direct Threat - Violating - This is threating to any bank and should be treated as violation. REJECT,2026-04-19 00:22:01
+4fdbc18a-98b2-4170-a0d0-a055589e18b2,a7544bd5-20f7-4345-bc2a-f037569ea0c0,APPROVED,Contextual Sarcasm - Non-Violating - This is not harmful but sarcastic,2026-04-19 00:23:22
